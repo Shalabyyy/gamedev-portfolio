@@ -35,31 +35,36 @@ export default Vue.extend({
 .skill-name {
   float: left;
   width: 200px;
+  color: transparent;
 }
 
 .skill-rate {
   float: left;
   width: 80px;
+  color: transparent;
   padding-top:11px;
 }
 
 .circle {
   float: left;
+  color: transparent;
   border-radius: 5px;
   height: 10px;
   width: 10px;
-  border: 0px solid @skillRateCircleColor;
+  //border: 0px solid @skillRateCircleColor;
   background-color: transparent;
   opacity: 0.6;
   margin: 0px 2px;
 }
 .circle-full {
+  color: transparent;
   background-color: @skillRateCircleColor;
 }
 .circle-empty {
   border-width: 1px;
   width: 8px;
   height: 8px;
+  color: transparent;
 }
 
 </style>

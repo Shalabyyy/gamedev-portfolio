@@ -4,10 +4,10 @@ export default [
     new ProjectData("project-1", "Birdie", "img/BirdieGiff.gif",
         `
     <div class="paragraph">
-     <strong>Birdie</strong> a game that brings the classic Tap and Flap concept to a whole new level of excitement!.
+     <strong>Birdie</strong> a game, Inspired by flappy bird that brings the classic Tap and Flap concept to a whole new level of excitement! Made with unity, this is my second published game.
     </div>
     <div class="paragraph center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-uprqoScRKg?si=d-4o3_mSezrGVjf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    <iframe class="youtube" src="https://www.youtube.com/embed/-uprqoScRKg?si=d-4o3_mSezrGVjf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>    </div>
     <div class="paragraph center">
         <a href="https://play.google.com/store/apps/details?id=com.YoussefShalaby.Birdie" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
@@ -31,10 +31,10 @@ export default [
     `, "#23bd69", true),
     new ProjectData("project-2", "Animal Drag Racing", "img/AnimalGif.gif", `
     <div class="paragraph">
-        <strong>Animal Drag Racing</strong> is my first ever published game that I am very proud of.
+        <strong>Animal Drag Racing</strong> is my first ever published game that I am very proud of, The game features multiple environemtnts and animals and provides the player with a sense of progression as they play through the game.
     </div>
     <div class="paragraph center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/3s1AzkwVkNQ?si=CJ-T8bW-u4XwHVww&amp;start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+    <iframe class="youtube" src="https://www.youtube.com/embed/3s1AzkwVkNQ?si=CJ-T8bW-u4XwHVww&amp;start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
 
     <div class="paragraph">
         Main features :
@@ -67,18 +67,18 @@ export default [
         This is the first game I ever write story and content for. I plan on releasing this game in early 2026.
     </div>
     <div class="paragraph center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/y3EyBBlIdfg?si=ay3q8lXxvpxkUlMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+    <iframe class="youtube"" src="https://www.youtube.com/embed/y3EyBBlIdfg?si=ay3q8lXxvpxkUlMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Dynamic Enemy AI</li>
-        <li>Fluid Spray-n-Pray System</li>
-        <li>Realstic Ballistic Effects</li>
-        <li>Retro Dialouge Systems/li>
-        <li>(Almost) Evreything is Interactable</li>
-        <li>Dynamic Inventory Managment Systems</li>
-        <li>Inspired by true events</li>
+        <li>🤖🛈 Dynamic Enemy AI</li>
+        <li>💦🔫Fluid Spray-n-Pray System</li>
+        <li>💥🎯Realstic Ballistic Effects</li>
+        <li>🕹️💬Retro Dialouge Systems</li>
+        <li>🔄🔍(Almost) Evreything is Interactable</li>
+        <li>📦🔄Dynamic Inventory Managment Systems</li>
+        <li>📜🌟Inspired by true events</li>
         </ul>
     </div>
 
@@ -95,31 +95,27 @@ export default [
         <img class="pc-screenshot" src="img/Private4.png" alt="Drawing Overload Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Obstacle Assault UE5", "img/Obstacle1.png", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <strong>Obstacle Assault</strong> is my first ever game made with Unreal Engine 5, Inspired by fall guys.
     </div>
     
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/QZP7QbpxbD0?si=dgr82HURFjYXpfOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>🌊🚶Fluid Movment</li>
+        <li>🔄💽Rotating Disks </li>
+        <li>💥🤯 Colliosion Physics</li>
         </ul>
     </div>
 
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
-    </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="pc-screenshot" src="img/Obstacle2.png" alt="OA Screenshot" />
+        <img class="pc-screenshot" src="img/Obstacle3.png" alt="OA Screenshot" />
     </div>
     `, "#e80fb7"),
     new ProjectData("project-5", "Digitalpens's Hypercasual Games", "img/DpLogo.png", `
