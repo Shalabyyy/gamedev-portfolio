@@ -7,7 +7,7 @@ export default [
       <br/>Inspired Heavily by Bitcoin, Boxcoin was created using the same hashing, Consensus and network protocols, giving a homage to the oldest cryptocurrency.
             </div>
             <div class="paragraph center">
-              <img class="pc-screenshot" src="img/Boxcoin4.png" alt="Boxcoin App" />
+              <img class="pc-screenshot" src="img/Boxcoin4.PNG" alt="Boxcoin App" />
           </div>
 
           <div class="paragraph">
@@ -33,10 +33,10 @@ export default [
         </div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="img/boxcoin5.png" alt="Boxcoin Screenshot" />
-          <img class="pc-screenshot" src="img/boxcoin6.png" alt="Boxcoin Screenshot" />
-          <img class="pc-screenshot" src="img/boxcoin2.png" alt="Boxcoin Screenshot" />
-          <img class="pc-screenshot" src="img/boxcoin3.png" alt="Boxcoin Screenshot" />
+          <img class="pc-screenshot" src="img/Boxcoin5.PNG" alt="Boxcoin Screenshot" />
+          <img class="pc-screenshot" src="img/Boxcoin6.png" alt="Boxcoin Screenshot" />
+          <img class="pc-screenshot" src="img/Boxcoin2.PNG" alt="Boxcoin Screenshot" />
+          <img class="pc-screenshot" src="img/Boxcoin3.PNG" alt="Boxcoin Screenshot" />
         </div>
     `, "#c10606", false, true),
     new ProjectData("project-7", "Centra Medical", "img/centra.png", `
@@ -60,12 +60,12 @@ export default [
             </div>
 
             <div class="paragraph center">
-            <img class="pc-screenshot" src="img/centra1.png" alt="Centra Screenshot" />
-            <img class="pc-screenshot" src="img/centra2.png" alt="Drew Blood Screenshot" />
+            <img class="pc-screenshot" src="img/Centra1.png" alt="Centra Screenshot" />
+            <img class="pc-screenshot" src="img/Centra2.png" alt="Centra Screenshot" />
             <br> <p> Mobile Version </p>
             <br>
-            <img class="pc-screenshot" src="img/centra4.png" alt="Drew Blood Screenshot" /> 
-            <img class="pc-screenshot" src="img/centra3.png" alt="Drew Blood Screenshot" /> 
+            <img class="pc-screenshot" src="img/Centra4.png" alt="Drew Blood Screenshot" /> 
+            <img class="pc-screenshot" src="img/Centra3.png" alt="Drew Blood Screenshot" /> 
            
             
                   

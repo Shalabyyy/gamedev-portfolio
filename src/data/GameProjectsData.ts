@@ -25,8 +25,8 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="img/Birdie4.png" alt="Birdie Screenshot 1" />
-        <img class="phone-screenshot" src="img/Birdie5.png" alt="BirdieScreenshot" />
+        <img class="phone-screenshot" src="img/Birdie4.PNG" alt="Birdie Screenshot 1" />
+        <img class="phone-screenshot" src="img/Birdie5.PNG" alt="BirdieScreenshot" />
     </div>
     `, "#23bd69", true),
     new ProjectData("project-2", "Animal Drag Racing", "img/AnimalGif.gif", `
@@ -54,13 +54,13 @@ export default [
   
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="img/Animal1.png" alt="Animal Drag Racing Screenshot" />
-    <img class="pc-screenshot" src="img/Animal2.png" alt="Animal Drag Racing Screenshot" />
-    <img class="pc-screenshot" src="img/Animal3.png" alt="Animal Drag Racing Screenshot" />
-    <img class="pc-screenshot" src="img/Animal4.png" alt="Animal Drag Racing    Screenshot" />
+    <img class="pc-screenshot" src="./img/Animal1.png" alt="Animal Drag Racing Screenshot" />
+    <img class="pc-screenshot" src="./img/Animal2.png" alt="Animal Drag Racing Screenshot" />
+    <img class="pc-screenshot" src="./img/Animal3.png" alt="Animal Drag Racing Screenshot" />
+    <img class="pc-screenshot" src="./img/Animal4.png" alt="Animal Drag Racing    Screenshot" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "The Private", "img/PrivateGif.gif", `
+    new ProjectData("project-3", "The Private", "./img/PrivateGif.gif", `
     <div class="paragraph">
         <strong>The Private</strong> My long term solo project, which is still a work in progress, I have been working on this game on/off for 3+ Years, 
         With my development journey being documented on youtube.
@@ -89,13 +89,13 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/Private1.png" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="img/Private2.png" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="img/Private3.png" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="img/Private4.png" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="./img/Private1.png" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="./img/Private2.PNG" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="./img/Private3.PNG" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="./img/Private4.PNG" alt="Drawing Overload Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Obstacle Assault UE5", "img/Obstacle1.png", `
+    new ProjectData("project-4", "Obstacle Assault UE5", "./img/Obstacle1.PNG", `
     <div class="paragraph">
     <strong>Obstacle Assault</strong> is my first ever game made with Unreal Engine 5, Inspired by fall guys.
     </div>
@@ -114,8 +114,8 @@ export default [
 
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/Obstacle2.png" alt="OA Screenshot" />
-        <img class="pc-screenshot" src="img/Obstacle3.png" alt="OA Screenshot" />
+        <img class="pc-screenshot" src="./img/Obstacle2.PNG" alt="OA Screenshot" />
+        <img class="pc-screenshot" src="./img/Obstacle3.PNG" alt="OA Screenshot" />
     </div>
     `, "#e80fb7"),
     new ProjectData("project-5", "Digitalpens's Hypercasual Games", "img/DpLogo.png", `
