@@ -118,93 +118,93 @@ export default [
         <img class="pc-screenshot" src="./img/Obstacle3.PNG" alt="OA Screenshot" />
     </div>
     `, "#e80fb7"),
-    new ProjectData("project-5", "Digitalpens's Hypercasual Games", "img/DpLogo.png", `
-    <div class="paragraph">
-        a showcase of the hypercasual games I contributed in during my time at <strong>Digitalpen</strong> the main objective was to make the games addictive and easy to play,
-         yet reward goodplayers
-        <strong>         <br/>Copyright Ownership rights: ℗ 2023 <a target="_blank" href="https://thedigital-pen.com/">Digitalpen</a>.
-        </strong>
-    </div>
+  //   new ProjectData("project-5", "Digitalpens's Hypercasual Games", "img/DpLogo.png", `
+  //   <div class="paragraph">
+  //       a showcase of the hypercasual games I contributed in during my time at <strong>Digitalpen</strong> the main objective was to make the games addictive and easy to play,
+  //        yet reward goodplayers
+  //       <strong>         <br/>Copyright Ownership rights: ℗ 2023 <a target="_blank" href="https://thedigital-pen.com/">Digitalpen</a>.
+  //       </strong>
+  //   </div>
     
-    <div class="paragraph" id='BUK'>
+  //   <div class="paragraph" id='BUK'>
     
-      <div class="hc-left">
-        <div>
-        <img  class="gif-hc" src="img/BukGif.gif" alt="BUK Gif" />
-        </div>
+  //     <div class="hc-left">
+  //       <div>
+  //       <img  class="gif-hc" src="img/BukGif.gif" alt="BUK Gif" />
+  //       </div>
         
-      </div>
-      <div class="hc-right">
-      <div class="hc-title">Buk</div>
-      Punch through the rocks to outscore your friend<br>
-      <br>
-      Help Buk man Fly through Saudi Arabia's skyline <br> Collect Coins and Hearts to achieve a high scores! Beware of the rocks!<br>
+  //     </div>
+  //     <div class="hc-right">
+  //     <div class="hc-title">Buk</div>
+  //     Punch through the rocks to outscore your friend<br>
+  //     <br>
+  //     Help Buk man Fly through Saudi Arabia's skyline <br> Collect Coins and Hearts to achieve a high scores! Beware of the rocks!<br>
 
-      </div>
+  //     </div>
       
-      <div style="clear:both"></div>
+  //     <div style="clear:both"></div>
     
-    </div>
-    <div class="paragraph" id='Jump v2'>
+  //   </div>
+  //   <div class="paragraph" id='Jump v2'>
     
-      <div class="hc-left">
-        <div>
-        <img class="gif-hc" src="img/JumpV2Gif.gif" alt="Jump Gif" />
-        </div>
+  //     <div class="hc-left">
+  //       <div>
+  //       <img class="gif-hc" src="img/JumpV2Gif.gif" alt="Jump Gif" />
+  //       </div>
         
-      </div>
-      <div class="hc-right">
-      <div class="hc-title">Jumpman 2.0</div>
-      Jump through the rocks to outscore your friend<br>
-      <br>
-      Help the pawn man jump through the falling block chaos<br> Jump quickly to maximize point gain! Beware of the falling blocks!<br>
+  //     </div>
+  //     <div class="hc-right">
+  //     <div class="hc-title">Jumpman 2.0</div>
+  //     Jump through the rocks to outscore your friend<br>
+  //     <br>
+  //     Help the pawn man jump through the falling block chaos<br> Jump quickly to maximize point gain! Beware of the falling blocks!<br>
 
-      </div> 
+  //     </div> 
       
-      <div style="clear:both"></div>
+  //     <div style="clear:both"></div>
     
-    </div>
-    <div class="paragraph" id='Jump v1'>
+  //   </div>
+  //   <div class="paragraph" id='Jump v1'>
     
-    <div class="hc-left">
-      <div>
-      <img class="gif-hc" src="img/JumpV1Giff.gif" alt="Jump Gif" />
-      </div>
+  //   <div class="hc-left">
+  //     <div>
+  //     <img class="gif-hc" src="img/JumpV1Giff.gif" alt="Jump Gif" />
+  //     </div>
       
-    </div>
-    <div class="hc-right">
-    <div class="hc-title">Jumpman 1.0</div>
-    Keep hopping on the platforms to outscore your friends<br>
-    <br>
-    Help the Haja sprint through the course<br> Jump quickly to maximize point gain! Beware of the moving blocks!<br>
+  //   </div>
+  //   <div class="hc-right">
+  //   <div class="hc-title">Jumpman 1.0</div>
+  //   Keep hopping on the platforms to outscore your friends<br>
+  //   <br>
+  //   Help the Haja sprint through the course<br> Jump quickly to maximize point gain! Beware of the moving blocks!<br>
 
-    </div> 
+  //   </div> 
     
-    <div style="clear:both"></div>
+  //   <div style="clear:both"></div>
   
-  </div>
+  // </div>
 
-  <div class="paragraph" id='Nebla'>
+  // <div class="paragraph" id='Nebla'>
     
-    <div class="hc-left">
-      <div>
-      <img class="gif-hc" src="img/NeblaGif.gif" alt="Jump Gif" />
-      </div>
+  //   <div class="hc-left">
+  //     <div>
+  //     <img class="gif-hc" src="img/NeblaGif.gif" alt="Jump Gif" />
+  //     </div>
       
-    </div>
-    <div class="hc-right">
-    <div class="hc-title">Nibla</div>
-    Shoot Balloons and Chests to Gain Points<br>
-    <br>
-    Aim with the slingshot (Nibla) <br> Ready, Aim , Fire on the Targets!<br>
+  //   </div>
+  //   <div class="hc-right">
+  //   <div class="hc-title">Nibla</div>
+  //   Shoot Balloons and Chests to Gain Points<br>
+  //   <br>
+  //   Aim with the slingshot (Nibla) <br> Ready, Aim , Fire on the Targets!<br>
 
-    </div> 
+  //   </div> 
     
-    <div style="clear:both"></div>
+  //   <div style="clear:both"></div>
   
-  </div>
+  // </div>
 
-    <div class="paragraph center">
-    </div>`, "#e48246")
+  //   <div class="paragraph center">
+  //   </div>`, "#e48246")
     
 ];

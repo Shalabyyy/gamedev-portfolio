@@ -9,7 +9,7 @@
       <br>
       
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="https://docs.google.com/document/d/1ANlwbduWokz8hqvjoce3eMoNW43Hz7vc/edit?usp=sharing&ouid=101844051890393184045&rtpof=true&sd=true" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> View Resume 🇬🇧</a>
+        <a class="download-link" href="https://drive.google.com/file/d/1VBEqv_NqYwVHE8whwb90bqFiRarNed-A/view?usp=drive_link" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> View Resume 🇬🇧</a>
         <div style="clear:both"></div>
       </div>
     </div>
