@@ -118,93 +118,105 @@ export default [
         <img class="pc-screenshot" src="./img/Obstacle3.PNG" alt="OA Screenshot" />
     </div>
     `, "#e80fb7"),
-  //   new ProjectData("project-5", "Digitalpens's Hypercasual Games", "img/DpLogo.png", `
-  //   <div class="paragraph">
-  //       a showcase of the hypercasual games I contributed in during my time at <strong>Digitalpen</strong> the main objective was to make the games addictive and easy to play,
-  //        yet reward goodplayers
-  //       <strong>         <br/>Copyright Ownership rights: ℗ 2023 <a target="_blank" href="https://thedigital-pen.com/">Digitalpen</a>.
-  //       </strong>
-  //   </div>
-    
-  //   <div class="paragraph" id='BUK'>
-    
-  //     <div class="hc-left">
-  //       <div>
-  //       <img  class="gif-hc" src="img/BukGif.gif" alt="BUK Gif" />
-  //       </div>
+    new ProjectData("project-5", "Digitalpen's Snake Guard", "./img/SnakeGuardGiff.gif", `
+        <div class="paragraph">
+        For <strong>Snake Guard</strong>, I was responsible for developing all gameplay elements, level designs and integrating SDKs to the game.
+        </div>
         
-  //     </div>
-  //     <div class="hc-right">
-  //     <div class="hc-title">Buk</div>
-  //     Punch through the rocks to outscore your friend<br>
-  //     <br>
-  //     Help Buk man Fly through Saudi Arabia's skyline <br> Collect Coins and Hearts to achieve a high scores! Beware of the rocks!<br>
+        <div class="paragraph center">
+        <img class="phone-screenshot" src="img/snakeGuard1.jpg" alt="Snake Screenshot 1" />
+        <img class="phone-screenshot" src="img/snakeGuard2.jpg" alt="Snake Screenshot" />
+    </div>
+        <div class="paragraph">
+            Main features :
+            <ul>
+            <li>🐍Unlimited Auto-Generated Levels</li>
+            <li>🎲Aesthetic Environment </li>
+            <li>💥 Brain Twister</li>
+            </ul>
+        </div>
+    
+        <div class="paragraph center">
+    <a href="https://play.google.com/store/apps/details?id=com.DigitalPen.SnakeCrush&pcampaignid=web_share" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+    <a href="https://apps.apple.com/us/app/snake-guard/id6504369229" target="_blank"><img src="img/projects/apple-app-store-logo.jpg" alt="Apple Store" /></a>
 
-  //     </div>
-      
-  //     <div style="clear:both"></div>
-    
-  //   </div>
-  //   <div class="paragraph" id='Jump v2'>
-    
-  //     <div class="hc-left">
-  //       <div>
-  //       <img class="gif-hc" src="img/JumpV2Gif.gif" alt="Jump Gif" />
-  //       </div>
+        `, "#e80fb7")
+    , new ProjectData("project-6", "Digitalpen's Aquaball", "./img/AquaBallGiff.gif", `
+        <div class="paragraph">
+        For , In collabortaion with my fellow collueges, I was responsible for designing some levels, applying physics and optimizing the sand cutter.
+        </div>
         
-  //     </div>
-  //     <div class="hc-right">
-  //     <div class="hc-title">Jumpman 2.0</div>
-  //     Jump through the rocks to outscore your friend<br>
-  //     <br>
-  //     Help the pawn man jump through the falling block chaos<br> Jump quickly to maximize point gain! Beware of the falling blocks!<br>
+        <div class="paragraph">
+        Shoutout for my friend and colluege, <strong><a href = "https://youssef20886.github.io/YoussefGaieb.github.io/">Youssef Gaieb</a></strong>  for taking the major dedvelopment role for this game
+        </div>
+        <div class="paragraph center">
+        <img class="phone-screenshot" src="img/aquaBall1.jpg" alt="Aqua Screenshot 1" />
+        <img class="phone-screenshot" src="img/aquaBall2.jpg" alt="Aqua Screenshot" />
+    </div>
+        <div class="paragraph">
+            Main features :
+            <ul>
+            <li>🏖️ Smooth Sand Cutting and Shape forming</li>
+            <li>🎲 Auto Genrated Levels </li>
+            <li>💥 Smooth Ball and Collision Physics</li
+            </ul>
+        </div>
+    
+        <div class="paragraph center">
+    <a href="https://play.google.com/store/apps/details?id=com.DigitalPen.WaterBall&pcampaignid=web_share" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+    <a href="https://apps.apple.com/us/app/aqua-ball/id6504370536" target="_blank"><img src="img/projects/apple-app-store-logo.jpg" alt="Apple Store" /></a>
 
-  //     </div> 
-      
-  //     <div style="clear:both"></div>
-    
-  //   </div>
-  //   <div class="paragraph" id='Jump v1'>
-    
-  //   <div class="hc-left">
-  //     <div>
-  //     <img class="gif-hc" src="img/JumpV1Giff.gif" alt="Jump Gif" />
-  //     </div>
-      
-  //   </div>
-  //   <div class="hc-right">
-  //   <div class="hc-title">Jumpman 1.0</div>
-  //   Keep hopping on the platforms to outscore your friends<br>
-  //   <br>
-  //   Help the Haja sprint through the course<br> Jump quickly to maximize point gain! Beware of the moving blocks!<br>
+        `, "#e80fb7"),
+      new ProjectData("project-7", "Digitalpens's Hypercasual Games", "img/DpLogo.png", `
+      <div class="paragraph">
+          a showcase of the hypercasual games I contributed in during my time at <strong>Digitalpen</strong> the main objective was to make the games addictive and easy to play,
+           yet reward goodplayers
+          <strong>         <br/>Copyright Ownership rights: ℗ 2023 <a target="_blank" href="https://thedigital-pen.com/">Digitalpen</a>.
+          </strong>
+      </div>
 
-  //   </div> 
-    
-  //   <div style="clear:both"></div>
-  
-  // </div>
+   
+      <div class="paragraph" id='Jump v1'>
 
-  // <div class="paragraph" id='Nebla'>
-    
-  //   <div class="hc-left">
-  //     <div>
-  //     <img class="gif-hc" src="img/NeblaGif.gif" alt="Jump Gif" />
-  //     </div>
-      
-  //   </div>
-  //   <div class="hc-right">
-  //   <div class="hc-title">Nibla</div>
-  //   Shoot Balloons and Chests to Gain Points<br>
-  //   <br>
-  //   Aim with the slingshot (Nibla) <br> Ready, Aim , Fire on the Targets!<br>
+      <div class="hc-left">
+        <div>
+        <img class="gif-hc" src="img/JumpV1Giff.gif" alt="Jump Gif" />
+        </div>
 
-  //   </div> 
-    
-  //   <div style="clear:both"></div>
-  
-  // </div>
+      </div>
+      <div class="hc-right">
+      <div class="hc-title">Jumpman 1.0</div>
+      Keep hopping on the platforms to outscore your friends<br>
+      <br>
+      Help the Haja sprint through the course<br> Jump quickly to maximize point gain! Beware of the moving blocks!<br>
 
-  //   <div class="paragraph center">
-  //   </div>`, "#e48246")
-    
+      </div> 
+
+      <div style="clear:both"></div>
+
+    </div>
+
+    <div class="paragraph" id='Nebla'>
+
+      <div class="hc-left">
+        <div>
+        <img class="gif-hc" src="img/NeblaGif.gif" alt="Jump Gif" />
+        </div>
+
+      </div>
+      <div class="hc-right">
+      <div class="hc-title">Nibla</div>
+      Shoot Balloons and Chests to Gain Points<br>
+      <br>
+      Aim with the slingshot (Nibla) <br> Ready, Aim , Fire on the Targets!<br>
+
+      </div> 
+
+      <div style="clear:both"></div>
+
+    </div>
+
+      <div class="paragraph center">
+      </div>`, "#e48246")
+
 ];
