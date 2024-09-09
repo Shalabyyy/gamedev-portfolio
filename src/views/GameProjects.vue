@@ -3,7 +3,7 @@
     <h1>My Game Portfolio</h1>
 
     <div style="margin-bottom: 10px;">
-      The following are some projects I developed or contributed in
+      The following are some projects I designed, sketched or wrote. My personal favourite is Void Seeker
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>
