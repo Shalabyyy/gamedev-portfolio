@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Void Seeker", "img/VS.PNG",
+    new ProjectData("project-6", "Void Seeker", "img/VS.png",
         `
     <div class="paragraph">
      <strong>Void Seeker</strong> is my favourite game I designed so far, and I really wish that one day I iwll be able to deliver it and develop it.
@@ -25,12 +25,12 @@ export default [
      </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/VS1.PNG" alt="Vowel Wizard Screenshot 1" />
-        <img class="pc-screenshot" src="img/VS2.PNG" alt="Vowel Wizard Screenshot 1" />
+        <img class="pc-screenshot" src="img/VS1.png" alt="Vowel Wizard Screenshot 1" />
+        <img class="pc-screenshot" src="img/VS2.png" alt="Vowel Wizard Screenshot 1" />
     </div>
 
     `, "#23bd69", true),
-    new ProjectData("project-1", "Vowel Wizard", "img/VW.PNG",
+    new ProjectData("project-1", "Vowel Wizard", "img/VW.png",
         `
     <div class="paragraph">
      <strong>Vowel Wizard</strong> stars Harry and Lydia are comepeting for the master of mystic arts title, they both want to reach this highest of honours at the mystical academy there is only place for person, The elder master is watching closeley to decide who is worthy to be his next successor. Who will reach the mystic book of speels first? </div>
@@ -43,13 +43,13 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/VW1.PNG" alt="Vowel Wizard Screenshot 1" />
-        <img class="pc-screenshot" src="img/VW2.PNG" alt="Vowel Wizard Screenshot 2" />
-        <img class="pc-screenshot" src="img/VW3.PNG" alt="Vowel Wizard Screenshot 3" />
-        <img class="pc-screenshot" src="img/VW4.PNG" alt="Vowel Wizard Screenshot 4" />
+        <img class="pc-screenshot" src="img/VW1.png" alt="Vowel Wizard Screenshot 1" />
+        <img class="pc-screenshot" src="img/VW2.png" alt="Vowel Wizard Screenshot 2" />
+        <img class="pc-screenshot" src="img/VW3.png" alt="Vowel Wizard Screenshot 3" />
+        <img class="pc-screenshot" src="img/VW4.png" alt="Vowel Wizard Screenshot 4" />
     </div>
     `, "#23bd69"),
-    new ProjectData("project-2", "The Cairo Detective", "img/CW.PNG", `
+    new ProjectData("project-2", "The Cairo Detective", "img/CW.png", `
     <div class="paragraph">
         <strong>The Cairo Detective</strong> was a world setting I came up with while I was taking my Game Design Course.
     </div>
@@ -66,12 +66,12 @@ export default [
   
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="./img/CW1.PNG" alt="Animal Drag Racing Screenshot" />
-    <img class="pc-screenshot" src="./img/CW2.PNG" alt="Animal Drag Racing Screenshot" />
+    <img class="pc-screenshot" src="./img/CW1.png" alt="Animal Drag Racing Screenshot" />
+    <img class="pc-screenshot" src="./img/CW2.png" alt="Animal Drag Racing Screenshot" />
 
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "The Golden Leauge Shooter", "./img/GL.PNG", `
+    new ProjectData("project-3", "The Golden Leauge Shooter", "./img/GL.png", `
     <div class="paragraph">
         <strong>The Golden Leauge Shooter</strong> is a result making a story that involves around a shooting academy, sp the Golden Leauge Shooter was my output from this and I am very proud of it
     </div>
@@ -88,20 +88,20 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="graph" src="./img/GL1.PNG" alt="Shooter Flowchart" />
+        <img class="graph" src="./img/GL1.png" alt="Shooter Flowchart" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Plastic Ghost Design", "./img/PG.PNG", `
+    new ProjectData("project-4", "Plastic Ghost Design", "./img/PG.png", `
     <div class="paragraph">
     <strong>The Plastics Ghosts</strong> were a result of picking a real life object and desiging a charachter that can be used for an arcade game like pac man whie also referencing an ongoing world event
     </div>
     
 
     <div class="paragraph center" >
-        <img class="graph" src="./img/PG.PNG" alt="OA Screenshot" />
+        <img class="graph" src="./img/PG.png" alt="OA Screenshot" />
     </div>
     `, "#e80fb7"),
-    new ProjectData("project-5", "Batman Begins Breakdown", "./img/BM.JPG", `
+    new ProjectData("project-5", "Batman Begins Breakdown", "./img/BM.jpg", `
         <div class="paragraph">
             <strong>Batman Begins: </strong> In this document I decieded to breakdown one of my favourite movies and describe it as one of my own </div>
     
